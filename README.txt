@@ -1,4 +1,4 @@
-=== Neeraj Elementor ===
+=== Nj Designer ===
 Contributors: codex007
 Donate link: neerajjangid.com
 Tags: comments, spam
